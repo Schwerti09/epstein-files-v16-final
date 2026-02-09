@@ -1,0 +1,12 @@
+{
+  "name": "epstein-files-empire",
+  "version": "16.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Ready for launch'"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
